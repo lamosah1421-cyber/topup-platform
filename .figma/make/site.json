@@ -1,0 +1,10 @@
+{
+  "description": "Connect brands and content creators in Saudi Arabia through a streamlined marketplace for campaign management, earnings tracking, and content collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
